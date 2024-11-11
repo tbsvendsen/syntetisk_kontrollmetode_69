@@ -1,0 +1,57 @@
+---
+title: "Datakilder for syntetisk kontrollmetode" 
+author: "Tobba420 og xxx_Adrianosex666"
+date: "`r format(Sys.Date(), '%d %B %Y')`"
+output: html_document
+---
+
+## Introduksjon
+
+Mulige datakilder for følgende forhold i europeiske land. Både EU-medlemsland og ikke-medlemsland. 
+Foreløpig om: landbruk, økonomi og demokrati.
+
+## Landbruk
+### Eurostat
+
+[Eurostat](https://ec.europa.eu/eurostat) 
+Tidsserier om EU-medlemsland. Må finne sammenlignbare tall hvis Eurostat skal kunne brukes. 
+
+### FAO
+
+[Food and Agriculture Organization (FAO)](https://www.fao.org) 
+Databasen gir tilgang til historiske data om landbruksproduksjon, handel og forbruk både for medlemsland og ikke-medlemsland.
+
+## Økonomi
+### Verdensbanken
+
+[Verdensbanken](https://data.worldbank.org) 
+Økonomiske indikatorer for medlemsnland og ikke-medlemsland. 
+BNP, inflasjon, arbeidsledighet og handelsbalanse. 
+Tidsserier. 
+
+### OECD
+
+[Organisasjonen for økonomisk samarbeid og utvikling (OECD)](https://www.oecd.org) 
+Mer detaljerte økonomiske data, men kun for OECD-land.
+ 
+## Demokrati
+### Freedom House
+
+[Freedom House](https://freedomhouse.org) 
+"Freedom in the World"-rapportene kan samles for demokratisk "score" over tid per land.
+Medlemsland og ikke-medlemsland. 
+Tidsserier
+
+### V-Dem
+
+[Varieties of Democracy (V-Dem)](https://www.v-dem.net) 
+Mer detaljerte demokrati-tall. 
+ Medlemsland og ikke-medlemsland.
+ Lange tidsserier. 
+
+### European Social Survey (ESS)
+
+[European Social Survey (ESS)](https://www.europeansocialsurvey.org) 
+ Surveydata om holdninger og verdivurderinger av særlig demokrati og korrupsjon i Europa. 
+ Rulleres annethvert år fra år 2000, representative utvalg med vekter for hvert europeiske land. 
+
