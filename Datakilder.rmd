@@ -54,4 +54,6 @@ Mer detaljerte demokrati-tall.
 [European Social Survey (ESS)](https://www.europeansocialsurvey.org) 
  Surveydata om holdninger og verdivurderinger av særlig demokrati og korrupsjon i Europa. 
  Rulleres annethvert år fra år 2000, representative utvalg med vekter for hvert europeiske land. 
-
+ESS har også noe som kunne vært en ytterligere dimensjon til den syntetiske kontrollmetoden:
+Tilfredshet med EU på en likert-skala, som kan aggregeres på alder per land (NO). på samme måte som med UK hvor aldersskillet var markant
+Kan også skille på tilfredshet med EU mellom medlemsland og ikke-medlemsland. 
